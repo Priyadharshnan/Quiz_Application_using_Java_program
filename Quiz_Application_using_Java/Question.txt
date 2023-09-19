@@ -58,13 +58,14 @@ An advantage of chained hash table (external hashing) over the open addressing s
 (c) Deletion easier
 (d) None of the above
 
-Space used is less
-(a) 4
-(b) -1
-(c) 6
-(d) 7
-what is the multiplication of 2 and 3?
-(a) 4
-(b) 5
-(c) 6
-(d) 7
+What is the implicit return type of constructor?
+(a) No return type
+(b) A class object in which it is defined
+(c) void 
+(d) None
+
+When is the object created with a new keyword?
+(a) At run time
+(b) At compile time
+(c) Depends on the code
+(d) None
