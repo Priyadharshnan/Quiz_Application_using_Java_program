@@ -1,1 +1,1 @@
-# Quiz_Application_using_Java_program
+This is Basic Quiz Application
